@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>Productos</name>
+=======
+            <name>EjemploHashMap</name>
+>>>>>>> 50ee91c93a41a66524d48650d6d49dd7d4ea3b50
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
